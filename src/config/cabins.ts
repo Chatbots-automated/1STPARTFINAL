@@ -3,7 +3,7 @@ import { Cabin } from '../types/booking';
 export const cabins: Cabin[] = [
   {
     id: 'lying-1',
-    name: 'Pirmoji kabina gulima',
+    name: '1 kabina gulimas',
     type: 'lying',
     description: 'Aukščiausios klasės gulima kabina su 42UV lempom ir vedinimo sistema',
     image: 'https://i.imgur.com/xGtSKlR.jpeg',
@@ -11,7 +11,7 @@ export const cabins: Cabin[] = [
   },
   {
     id: 'standing-1',
-    name: 'Antroji kabina stovima',
+    name: '2 kabina stovimas',
     type: 'standing',
     description: 'Prabangi stovima kabina su 42UV lempom ir vėdinimo sistema',
     image: 'https://i.imgur.com/BfJvZrr.jpeg',
@@ -19,7 +19,7 @@ export const cabins: Cabin[] = [
   },
   {
     id: 'lying-2',
-    name: 'Trečioji kabina gulima',
+    name: '3 kabina gulimas',
     type: 'lying',
     description: 'Aukščiausios klasės gulima kabina su aromoterapija ir valdoma muzika',
     image: 'https://i.imgur.com/BglgqEp.jpeg',
